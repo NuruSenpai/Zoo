@@ -1,0 +1,2 @@
+tiger,oooo,4,true,YELLOW,AFRICA
+bear,misha,4,true,GRAY,AFRICA
